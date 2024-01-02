@@ -2,6 +2,8 @@
 
 This project offers a streamlined solution for automatically merging video segments created by DJI cameras. Designed to address the issue of long videos being split into multiple clips due to the 4GB file size limitation of DJI cameras, this tool seamlessly stitches these segments back into a single video file. It's particularly beneficial for extended recording sessions.
 
+[点击这里查看中文版说明](README-CN.md)
+
 ## ⚠️Preface
 
 **Data is priceless. Before running this tool, please ensure that you have made appropriate backups. We are not responsible for any data loss that may occur.**
