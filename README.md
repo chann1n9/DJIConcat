@@ -8,8 +8,7 @@ This project offers a streamlined solution for automatically merging video segme
 
 ## Key Features
 
-Automatic Merging: Automatically identifies and combines scattered DJI video segments.
-
+- Automatic Merging: Automatically identifies and combines scattered DJI video segments.
 - Dry Run Mode: Includes a dry run option that allows users to preview the actions to be performed without actual merging.
 - Verbose Output: Users can enable a verbose output mode for additional information about the processing.
 - Flexible Source and Target Paths: Users can specify the directories for the source video segments and the merged output.
@@ -18,6 +17,24 @@ Automatic Merging: Automatically identifies and combines scattered DJI video seg
 - Custom Merge List: Users can specify a file containing a list of video files to be merged, offering more flexibility and control in the merging process.
 
 This tool is highly valuable for users who need to handle a large volume of DJI video files, from professional photographers to aerial photography enthusiasts, saving considerable time and effort in the video editing process.
+
+## Installation
+
+`git clone https://github.com/chann1n9/DJIConcat.git`
+
+This tool relies on ffmpeg, please ensure ffmpeg is installed before running.
+
+### macOS
+
+`brew install ffmpeg`
+
+### Windows
+
+[ffmpeg Download Page](https://ffmpeg.org/download.html)
+
+### Linux
+
+Install using apt/dnf/pacman as appropriate.
 
 ## Quick Start
 
